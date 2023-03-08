@@ -1,8 +1,8 @@
 {
 	"name": "python-extensions-pack",
 	"displayName": "Python Development Extensions Pack",
-	"description": "Everything you need Python development. Git Extensions Pack Included",
-	"version": "1.0.1",
+	"description": "Everything you need for Python development. Git Extensions Pack Included",
+	"version": "1.0.2",
 	"publisher": "demystifying-javascript",
 	"license": "MIT",
 	"icon": "images/icon.png",
