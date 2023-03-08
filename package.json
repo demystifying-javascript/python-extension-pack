@@ -1,0 +1,58 @@
+{
+	"name": "python-extension-pack",
+	"displayName": "python-extension-pack",
+	"description": "Everything you need Python development. Git Extensions Pack Included",
+	"version": "1.0.0",
+	"publisher": "demystifying-javascript",
+	"license": "MIT",
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.76.0"
+	},
+	"categories": [
+		"Extension Packs",
+		"Snippets",
+		"Linters",
+		"Programming Languages",
+		"Formatters",
+		"Other"
+	],
+	"repository": {
+		"url": "https://github.com/demystifying-javascript/python-extension-pack"
+	},
+	"homepage": "https://github.com/demystifying-javascript/python-extension-pack",
+	"bugs": {
+		"url": "https://github.com/demystifying-javascript/python-extension-pack/issues"
+	},
+	"extensionPack": [
+		"ms-python.python",
+		"xirider.livecode",
+		"cstrap.python-snippets",
+		"dongli.python-preview",
+		"KevinRose.vsc-python-indent",
+		"LittleFoxTeam.vscode-python-test-adapter",
+		"njqdev.vscode-python-typehint",
+		"sourcery.sourcery",
+		"ms-python.vscode-pylance",
+		"mintlify.document",
+		"almenon.arepl",
+		"traBpUkciP.wolf",
+		"ms-python.black-formatter",
+		"oderwat.indent-rainbow",
+		"njpwerner.autodocstring",
+		"deerawan.vscode-dash",
+		"thebarkman.vscode-djaneiro",
+		"ponicode.ponicode",
+		"EricSia.pythonsnippets",
+		"ms-toolsai.jupyter",
+		"batisteo.vscode-django",
+		"kaih2o.python-resource-monitor",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"streetsidesoftware.code-spell-checker",
+		"donjayamanne.git-extension-pack"
+	]
+}
