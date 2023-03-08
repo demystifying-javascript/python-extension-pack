@@ -1,6 +1,6 @@
 {
-	"name": "python-extension-pack",
-	"displayName": "python-extension-pack",
+	"name": "python-extensions-pack",
+	"displayName": "Python Development Extensions Pack",
 	"description": "Everything you need Python development. Git Extensions Pack Included",
 	"version": "1.0.0",
 	"publisher": "demystifying-javascript",
