@@ -2,7 +2,7 @@
 	"name": "python-extensions-pack",
 	"displayName": "Python Development Extensions Pack",
 	"description": "Everything you need for Python development. Git Extensions Pack Included",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "demystifying-javascript",
 	"license": "MIT",
 	"icon": "images/icon.png",
@@ -107,7 +107,6 @@
 		"url": "https://github.com/demystifying-javascript/python-extension-pack/issues"
 	},
 	"extensionPack": [
-		"ms-python.python",
 		"xirider.livecode",
 		"cstrap.python-snippets",
 		"dongli.python-preview",
@@ -115,21 +114,16 @@
 		"LittleFoxTeam.vscode-python-test-adapter",
 		"njqdev.vscode-python-typehint",
 		"sourcery.sourcery",
-		"ms-python.vscode-pylance",
 		"mintlify.document",
 		"almenon.arepl",
 		"traBpUkciP.wolf",
-		"ms-python.black-formatter",
 		"oderwat.indent-rainbow",
 		"njpwerner.autodocstring",
 		"deerawan.vscode-dash",
 		"thebarkman.vscode-djaneiro",
-		"ponicode.ponicode",
 		"EricSia.pythonsnippets",
-		"ms-toolsai.jupyter",
 		"batisteo.vscode-django",
 		"kaih2o.python-resource-monitor",
-		"VisualStudioExptTeam.vscodeintellicode",
 		"streetsidesoftware.code-spell-checker",
 		"donjayamanne.git-extension-pack"
 	]
